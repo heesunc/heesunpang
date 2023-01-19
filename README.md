@@ -1,5 +1,10 @@
 # 😺 heesunpang
-Python으로 만든 Shooting Game입니다.   
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 으로 만든 Shooting Game입니다.   
+
+<br>
+
+# 🔨 개발 기간
+2022.05 ~ 2022.06 (약 1개월)
 
 <br>
 
